@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Thyago Nascimento  
 
-<!--
-**thnas22/thnas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Interessado em Desenvolvimento Web, Programação e Tecnologia  
+🚀 Em constante aprendizado e construindo projetos para evoluir minhas habilidades  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Conecte-se comigo:
+- [LinkedIn](https://www.linkedin.com/in/thyago-nascimento-2a832737b)  
+- [GitHub](https://github.com/thnas22)  
+
+---
+
+## 📌 Sobre mim
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios.  
+Neste repositório você encontrará meus projetos, estudos e experiências práticas em programação.  
+
+---

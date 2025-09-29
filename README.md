@@ -17,3 +17,5 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios.
 Neste repositório você encontrará meus projetos, estudos e experiências práticas em programação.  
 
 ---
+
+✨ *“Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.”* – Leonardo da Vinci

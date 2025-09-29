@@ -18,4 +18,4 @@ Neste repositório você encontrará meus projetos, estudos e experiências prá
 
 ---
 
-Conhecimento nunca será demais.
+Conhecimento nunca será demais!

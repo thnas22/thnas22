@@ -18,4 +18,4 @@ Neste repositório você encontrará meus projetos, estudos e experiências prá
 
 ---
 
-✨ *“Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.”* – Leonardo da Vinci
+Conhecimento nunca será demais.
